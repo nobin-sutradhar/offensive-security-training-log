@@ -1,4 +1,3 @@
-
 # Offensive Security Training Log
 
 ## Declaration
